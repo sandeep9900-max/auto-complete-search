@@ -1,10 +1,23 @@
 .App {
   text-align: center;
+  justify-content: center;
+  padding-top: 200px;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.card_div {
+  width: 57%;
+}
+.card_div {
+  margin-left: 30%;
+  cursor: pointer;
+}
+.input_filed {
+  width: 40%;
+  margin-top: 10px ;
 }
 
 @media (prefers-reduced-motion: no-preference) {
